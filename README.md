@@ -20,9 +20,8 @@ I'm a data analyst with 1.6 years of experience specializing in data visualizati
 - [Stock Portfolio Analysis](https://app.powerbi.com/view?r=eyJrIjoiNmQzMDZjZDEtMDYzZi00OTE0LWEwNWEtYjVjOTk1ZGNhNmNiIiwidCI6ImNmNDNiZTQ0LTYwN2QtNDJjZi1iYmE1LTAwM2E4MTIxYTFlZSJ9) - Python and Power BI based portfolio tracker
 
 ### 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: (https://www.linkedin.com/in/yuvrajkulkarni1/)
 - Email: yuvik0419@gmail.com
-- Tableau Public: [Your profile]
 
 
 ---
