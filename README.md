@@ -24,8 +24,6 @@ I'm a data analyst with 1.6 years of experience specializing in data visualizati
 - Email: yuvik0419@gmail.com
 - Tableau Public: [Your profile]
 
-### 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=yuvik6869&show_icons=true&theme=radical)
 
 ---
 ⚡ Always learning, always building!
