@@ -16,7 +16,7 @@ I'm a data analyst with 1.6 years of experience specializing in data visualizati
 - **Tools:** Git, Excel, Power Query, DAX
 
 ### 📈 Featured Projects
-- [Customer Churn Analysis Dashboard]((https://public.tableau.com/views/Customer_Churn_17648380410560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) - Tableau dashboard analyzing 7K+ records
+- [Customer Churn Analysis Dashboard](https://public.tableau.com/views/Customer_Churn_17648380410560/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - Tableau dashboard analyzing 7K+ records
 - [Stock Portfolio Analysis](https://app.powerbi.com/view?r=eyJrIjoiNmQzMDZjZDEtMDYzZi00OTE0LWEwNWEtYjVjOTk1ZGNhNmNiIiwidCI6ImNmNDNiZTQ0LTYwN2QtNDJjZi1iYmE1LTAwM2E4MTIxYTFlZSJ9) - Python and Power BI based portfolio tracker
 
 ### 📫 Let's Connect!
