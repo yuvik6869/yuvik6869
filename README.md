@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | Turning Data into Actionable Insights
 
-I'm a data analyst with 1.6 years of experience specializing in data visualization, SQL, Python, and business intelligence. I love building dashboards that help businesses make data-driven decisions.
+I'm a data analyst with 1 year(s) of experience specializing in data visualization, SQL, Python, and business intelligence. I love building dashboards that help businesses make data-driven decisions.
 
 ### 🔭 Current Focus
 - Building interactive dashboards in Tableau and Power BI
